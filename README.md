@@ -10,12 +10,6 @@ A beautiful and inspiring Flutter application that displays random motivational 
 - **Responsive Design**: Works seamlessly across different screen sizes
 - **Cross-Platform**: Runs on Android, iOS, Web, Windows, macOS, and Linux
 
-## 🎨 Screenshots
-
-| Home Screen | Quote Display |
-|-------------|---------------|
-| ![Home](screenshots/home.png) | ![Quote](screenshots/quote.png) |
-
 ## 🚀 Getting Started
 
 ### Prerequisites
